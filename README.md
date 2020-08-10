@@ -1,12 +1,10 @@
 # Alastair Sumner
 
-I am a budding junior developer with a passion for constantly developing my skills and experience.
+I am a budding junior developer with a passion for problem solving, puzzles and pizza. 
 
-I have over 7 years experience working within technical pre-sales in the hosting and cloud industry. After 5 years working in a business development role in Manchester I was tasked with opening up and managing a new London office for UKFast that previously had no presence in the South. Working day-in-day-out with developers, engineers, and myriad technical individuals I found myself fascinated by that side of the industry. As such I moved to Claranet as a pre-sales cloud consultant to assist businesses with their digital transformation into public cloud services.
+Previously in my career I spent 7 years working within hosting and infrastructure and most recently as a hybrid cloud consultant specialising in assisting businesses with their digital transformation. Working  closely with web and software, site reliability, and DevOps engineers for so many years really amplified my enthusiasm for technology to the point where I want to take my passion for solving problems into a more technical career.
 
-During this role, while gaining an understanding of each client's application stack I found myself drawn towards the applications themselves; how they were built, what their business function was, their benefits as well as their limitations.
-
-I soon realised that this was not something to be ignored, and as a big believer in the notion that you if you love what you do, you won't work a day in your life (as a generalisation rather than any misguided naiviety!), I decided to leave Claranet and enroll on the 16 week intensive [Makers Academy](https://makers.tech/) course.
+Having now graduated from Makers, I am eager to join a great team that genuinely love what they do. With a drive and determination to improve and succeed, coupled with 7 years commercial experience, I believe I would be a strong addition to the right tech team.
 
 <div align="center">
             
