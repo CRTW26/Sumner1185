@@ -40,14 +40,17 @@ A Summary of some of the projects I have worked on. All have been developed usin
 ## Experience
 
 ### Claranet Group Ltd (Mar 2019 - Mar 2020)
-Claranet is one of only 5 companies across the world to hold premier partnership status with AWS, Microsoft Azure and Google Cloud Platform.
+Assisted new and existing customers to plan, design and implement digital transformation projects utilising Amazon Web Services, Microsoft Azure, Google Cloud Platform, Oracle Cloud Infrastructure as well as private cloud.
 
 *Public Cloud Consultant:*
 
-* Assisted clients with public cloud transformation from existing on-premise infrastructure
-* Understand clients' line of business applications and advice on most appropriate public cloud solution
-* Creation of proposals and legal documents
-* Worked with clients such as Funky Pigeon, Rymans, Sky, Lush, Channel 5, Legal & General, Balfour Beatty, Pets at Home, Missguided and William Hill
+* Part of the hybrid cloud consultancy team working towards a group target, which required great team-working skills and created a strong collaborative working environment.
+* Responsible for handling entire process from initial planning stages through negotiation of deal, prior to implementation/migration of mission-critical applications into the cloud.
+* Worked with external and internal key stakeholders at all levels up to C-Suite.
+* Ran technical white-boarding sessions alongside members of the engineering team.
+* Creation of proposals including high-level technical diagrams as well as legal documentation for new business process.
+* Worked with clients such as Funky Pigeon, Rymans, Sky, Lush, Channel 5, Legal & General, Balfour Beatty, Pets at Home, Missguided, and William Hill.
+
 
 ### UKFast.net Ltd (Oct 2017 - Mar 2019)
 *Business Development Manager / Manager - London Office*
