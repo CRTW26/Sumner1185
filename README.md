@@ -109,18 +109,6 @@ I have worked with a variety of languages and frameworks:
 
 * Philosophy
 * BA Hons 2:1
-* Other cool stuff
-
-### Any other qualifications
-
-* Private helicopter pilot license (2009)
-Both practical and written exams required spanning:
-  - Mechanics
-  - Flight
-  - Weather systems
-  - Navigation
-  - Radio communication
-
 
 ### Hobbies & Interests
 
