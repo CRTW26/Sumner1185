@@ -52,7 +52,7 @@ Assisted new and existing customers to plan, design and implement digital transf
 * Worked with clients such as Funky Pigeon, Rymans, Sky, Lush, Channel 5, Legal & General, Balfour Beatty, Pets at Home, Missguided, and William Hill.
 
 
-### UKFast.net Ltd (Oct 2017 - Mar 2019)
+### UKFast.net Ltd (May 2013 - Mar 2019)
 *Business Development Manager / Manager - London Office*
 
 * Established London office for UKFast
@@ -75,7 +75,7 @@ Throughout Makers we worked using XP/Agile methodologies and within group projec
 
 ### Stakeholder Manegement
 
-Many years experience dealing with stakeholders all the way up to C-suite to facilitate new business and grow existing client base. In my roles at UKFast and Claranet my main points of contact would initially be C-suite level as well as members of the tech team, which has given me a solid background in managing clients at many levels. This would be done as face-to-face meetings, white-boarding sessions, and conference calls.
+Many years experience dealing with both internal and external stakeholders all the way up to C-suite to facilitate new business and grow existing client base. In my roles at UKFast and Claranet my main points of contact would initially be C-suite level as well as members of the tech team, which has given me a solid background in managing clients at many levels. This would be done as face-to-face meetings, white-boarding sessions, and conference calls.
 
 ### Leadership
 
@@ -126,7 +126,12 @@ Both practical and written exams required spanning:
 
 ### Hobbies & Interests
 
-* Any cool stuff that makes you a super part of a software development team
+* Coding/Tech - Always had a passion for all things techie						
+* Escape rooms - Adore solving puzzles of any kind, especially being locked in a room full of them! 15 rooms in 2019 (yet to be locked in!)
+* Keeping fit
+* Helicopter License - Involved mechanics, understanding flight, weather patterns, navigation and radio communication as well as the practicality of flying the thing!	
+* Golf
+* Pizza - Can’t really put my love for pizza into words
 
 <!-- project links -->
 [back-end]: https://github.com/tristanlangford/invimcible_back_end
