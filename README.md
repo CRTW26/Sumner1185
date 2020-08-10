@@ -13,10 +13,10 @@ I soon realised that this was not something to be ignored, and as a big believer
 ### Jump to:
 
 [![projects](https://img.shields.io/badge/-Projects-blue?style=for-the-badge)](#projects)
-[![skill](https://img.shields.io/badge/-Skills-blue?style=for-the-badge)](#skills)
+[![experience](https://img.shields.io/badge/-Experience-blue?style=for-the-badge)](#experience)
+[![skills](https://img.shields.io/badge/-Skills-blue?style=for-the-badge)](#skills)
 [![technical knowledge](https://img.shields.io/badge/-Technical_Knowledge-blue?style=for-the-badge)](#technical-knowledge)
 [![education](https://img.shields.io/badge/-Education-blue?style=for-the-badge)](#education)
-[![experience](https://img.shields.io/badge/-Experience-blue?style=for-the-badge)](#experience)
 [![hobbies & interests](https://img.shields.io/badge/-Hobbies_and_interests-blue?style=for-the-badge)](#hobbies-and-interests)
 
 ### Contact/Links
@@ -29,7 +29,34 @@ I soon realised that this was not something to be ignored, and as a big believer
 
 ## Projects
 
-Enter Projects
+A Summary of some of the projects I have worked on. All have been developed using Test-Driven Development, Object-Oriented Design Principles and Agile methodology.
+
+| Project | Description | Technology | Testing |
+|---------|-------------|------------|---------|
+| Vim Bishop's Bike Adventure <br>**[back-end]**<br> **[front-end]** | Group project. A top-down RPG game designed to help new developers get to grips with the unintuative VIM controls | Express, Node, React, HTML/CSS | Jest |
+| **[Acebook]** | Group project. A social media web application inspired by Facebook | Ruby on Rails, HTML, CSS | Rspec |
+| **[Bank Tech Test]** | A CLI program emulating a bank account, showcasing test-driven development | Ruby | Rspec |
+
+## Experience
+
+### Claranet Group Ltd (Mar 2019 - Mar 2020)
+Claranet is one of only 5 companies across the world to hold premier partnership status with AWS, Microsoft Azure and Google Cloud Platform.
+
+*Public Cloud Consultant:*
+
+* Assisted clients with public cloud transformation from existing on-premise infrastructure
+* Understand clients' line of business applications and advice on most appropriate public cloud solution
+* Creation of proposals and legal documents
+* Worked with clients such as Funky Pigeon, Rymans, Sky, Lush, Channel 5, Legal & General, Balfour Beatty, Pets at Home, Missguided and William Hill
+
+### UKFast.net Ltd (Oct 2017 - Mar 2019)
+*Business Development Manager / Manager - London Office*
+
+* Established London office for UKFast
+* Worked closely with web development partners as well as internal infrastructure engineers
+* Responsible for winning contracts totaling in excess of £2.5 million
+* Signed up high profile clients such as Santander, Welsh Government, Chester Zoo, Towergate Insurance and Chiquita Bananas
+
 
 ## Skills
 
@@ -62,20 +89,10 @@ Excellent communication skills both written and spoken, which a background in mo
 
 I have worked with a variety of languages and frameworks:
 
-
-| Languages    | Technologies | Testing Frameworks | Tools    |
-|--------------|--------------|--------------------|----------|
-|   Ruby       |   Sinatra    |   Rspec            |  VSCode  |
-|   JavaScript |   Rails      |   Capybara         |  Git     |
-|   HTML5      |   Node.js    |   Jasmine          |  OSx     |
-|   CSS3       |   Express    |   Jest             |          |
-|              |   React      |   Enzyme           |          |
-|              |   JQuery     |                    |          |
-|              |   PostgreSQL |                    |          |
-|              |   TravisCI   |                    |          |
-|              |   Heroku     |                    |          |
-|              |   Netlify    |                    |          |
-
+* Languages: Ruby, JavaScript, HTML5, CSS3
+* Technologies: Sinatra, Rails, Node, Express, React, JQuery, PostgreSQL, TravisCI, Heroku, Netlify
+* Testing Frameworks: Rspec, Capybara, Jasmine, Jest, Enzyme, Mocha, Chai,
+* Tools: VSCode, Git, OSx
 
 
 ## Education
@@ -103,30 +120,16 @@ Both practical and written exams required spanning:
   - Navigation
   - Radio communication
 
-## Experience
-
-### Claranet Group Ltd (Mar 2019 - Mar 2020)
-Claranet is one of only 5 companies across the world to hold premier partnership status with AWS, Microsoft Azure and Google Cloud Platform.
-
-*Public Cloud Consultant:*
-
-* Assisted clients with public cloud transformation from existing on-premise infrastructure
-* Understand clients' line of business applications and advice on most appropriate public cloud solution
-* Creation of proposals and legal documents
-* Worked with clients such as Funky Pigeon, Rymans, Sky, Lush, Channel 5, Legal & General, Balfour Beatty, Pets at Home, Missguided and William Hill
-
-### UKFast.net Ltd (Oct 2017 - Mar 2019)
-*Business Development Manager / Manager - London Office*
-
-* Established London office for UKFast
-* Worked closely with web development partners as well as internal infrastructure engineers
-* Responsible for winning contracts totaling in excess of £2.5 million
-* Signed up high profile clients such as Santander, Welsh Government, Chester Zoo, Towergate Insurance and Chiquita Bananas
 
 ### Hobbies & Interests
 
 * Any cool stuff that makes you a super part of a software development team
 
+<!-- project links -->
+[back-end]: https://github.com/tristanlangford/invimcible_back_end
+[front-end]: https://github.com/RaeRachael/invimcible_front_end
+[Acebook]: https://github.com/Katie-McDonagh/acebook-bits-please
+[Bank Tech Test]: https://github.com/Sumner1185/BankTechTest
 
 <!-- links for badges -->
 [linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
